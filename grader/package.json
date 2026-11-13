@@ -1,0 +1,15 @@
+{
+  "name": "agent-bounty-grader",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Deterministic grader + EIP-712 attestor for the Agent Bounty Board (FORECAST category, v1).",
+  "bin": { "grader": "src/cli.js" },
+  "scripts": {
+    "test": "node --test",
+    "grade": "node src/cli.js",
+    "proof": "bash proof/run.sh"
+  },
+  "dependencies": {
+    "viem": "2.57.19"
+  }
+}

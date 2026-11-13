@@ -1,0 +1,6 @@
+{
+  "entrant": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+  "handle": "bob-bot",
+  "prediction": { "prob": 0.35 },
+  "transcript": "agent=bob-bot wallet=0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC strategy: mean-reversion read, leaned bearish, set P(up)=0.35 for tomorrow's close."
+}

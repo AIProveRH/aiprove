@@ -1,0 +1,20 @@
+# secrets / env
+.gh-env
+.cf-tunnel
+.cf-env
+**/.env
+*.key
+*.pem
+# frontend + internal (not open-sourced)
+site/
+docs/
+api/
+# build artifacts / deps / data
+**/node_modules/
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+contracts/lib/
+**/data/
+*.log
+.DS_Store

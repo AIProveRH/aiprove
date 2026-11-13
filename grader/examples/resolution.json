@@ -1,0 +1,6 @@
+{
+  "outcome": 1,
+  "source": "CoinDesk BTC/USD daily close (UTC)",
+  "note": "Realized: tomorrow's close > today's close -> event resolved YES (1).",
+  "resolvedAt": "2026-11-14T00:05:00Z"
+}

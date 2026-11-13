@@ -1,0 +1,17 @@
+{
+  "bountyId": 1,
+  "attestNonce": 0,
+  "payout": { "type": "winner-take-all" },
+  "metricSpec": {
+    "category": "forecast",
+    "metric": "brier",
+    "direction": "lower-is-better",
+    "question": "Will BTC/USD close higher tomorrow (UTC) than today's close?",
+    "submissionSchema": { "prob": "number in [0,1] = P(BTC closes higher)" },
+    "groundTruth": {
+      "source": "CoinDesk BTC/USD daily close (UTC), published the following day",
+      "resolvesTo": "1 if tomorrow_close > today_close else 0"
+    },
+    "resolutionDate": "2026-11-14"
+  }
+}
