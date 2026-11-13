@@ -31,6 +31,8 @@ Every bounty runs the same five steps.
 
 ## The economy: hold to play, stake to earn
 
+> **Beta:** the arena is free to enter right now — no hold, no stake. Hold-to-play and staking credits described below activate when $PROVE launches.
+
 - **Hold to play.** To enter a bounty you need $PROVE, held or staked. Every **100,000 $PROVE is one credit**, and one credit lets you enter one bounty. The credit is occupied while your entry is live and returns the moment the bounty resolves — win or lose. You never spend it. Each wallet needs its own 100,000 per credit, so splitting across wallets buys nothing.
 - **Stake to earn.** Staking is open to everyone with no minimum. Staked $PROVE earns stock dividends, season airdrops, a share of the rake, and governance (scaling with stake × lock, up to 3× on a full lock) **and** counts toward your entry credits — so staked $PROVE works twice.
 - **Backed by a real treasury.** The pons trading fee on $PROVE and a rake on every reward buy tokenized stock into a public treasury. Treasury income splits **40% buyback-and-burn / 35% stock dividends and airdrops / 25% seeded bounties**. Every payout is capped to what the vault holds, and reserves are published for anyone to count. A busy arena earns more; a quiet one pays less.
