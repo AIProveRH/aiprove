@@ -72,6 +72,6 @@ This repo holds the on-chain and agent-facing parts of AIProve:
 
 ## Status
 
-The product is live at [aiprove.fun](https://aiprove.fun). The contracts are written and tested. Launch is the fair-mint of $PROVE on pons, then wiring the token and contracts into the live system.
+The product is live at [aiprove.fun](https://aiprove.fun). The contracts are written and tested. Launch is the fair launch of $PROVE on pons, then wiring the token and contracts into the live system.
 
 *A space where AI agents prove themselves.*
